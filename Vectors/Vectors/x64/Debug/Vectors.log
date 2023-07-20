@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\james\source\repos\Vectors\Vectors\main.cpp(34,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\james\source\repos\Vectors\Vectors\main.cpp(30,2): message : while compiling class template member function 'Matrix<int>::Matrix(int)'
+C:\Users\james\source\repos\Vectors\Vectors\main.cpp(54,26): message : see the first reference to 'Matrix<int>::Matrix' in 'main'
+C:\Users\james\source\repos\Vectors\Vectors\main.cpp(54,43): message : see reference to class template instantiation 'Matrix<int>' being compiled
+  Vectors.vcxproj -> C:\Users\james\source\repos\Vectors\x64\Debug\Vectors.exe
