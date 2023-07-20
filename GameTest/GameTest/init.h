@@ -1,1 +1,0 @@
-void initSDL(void);
